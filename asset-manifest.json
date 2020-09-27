@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/css/main.499b423d.chunk.css",
+    "main.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/main.0649088d.chunk.js",
+    "main.js.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/main.0649088d.chunk.js.map",
+    "runtime-main.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/runtime-main.9cc0539c.js",
+    "runtime-main.js.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/runtime-main.9cc0539c.js.map",
+    "static/js/2.b4309f00.chunk.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/index.html",
+    "precache-manifest.1081aeb6afa4f408a3f82f78b54201de.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/precache-manifest.1081aeb6afa4f408a3f82f78b54201de.js",
+    "service-worker.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/service-worker.js",
+    "static/css/main.499b423d.chunk.css.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/css/main.499b423d.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cc0539c.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.499b423d.chunk.css",
+    "static/js/main.0649088d.chunk.js"
+  ]
+}
