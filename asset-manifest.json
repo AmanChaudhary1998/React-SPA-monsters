@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/css/main.499b423d.chunk.css",
-    "main.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/main.0649088d.chunk.js",
-    "main.js.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/main.0649088d.chunk.js.map",
-    "runtime-main.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/runtime-main.9cc0539c.js",
-    "runtime-main.js.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/runtime-main.9cc0539c.js.map",
-    "static/js/2.b4309f00.chunk.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/2.b4309f00.chunk.js",
-    "static/js/2.b4309f00.chunk.js.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/2.b4309f00.chunk.js.map",
-    "index.html": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/index.html",
-    "precache-manifest.1081aeb6afa4f408a3f82f78b54201de.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/precache-manifest.1081aeb6afa4f408a3f82f78b54201de.js",
-    "service-worker.js": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/service-worker.js",
-    "static/css/main.499b423d.chunk.css.map": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/css/main.499b423d.chunk.css.map",
-    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/git@github.com:AmanChaudhary1998/React-SPA-monsters.git/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+    "main.css": "/React-SPA-monsters/static/css/main.499b423d.chunk.css",
+    "main.js": "/React-SPA-monsters/static/js/main.118cc534.chunk.js",
+    "main.js.map": "/React-SPA-monsters/static/js/main.118cc534.chunk.js.map",
+    "runtime-main.js": "/React-SPA-monsters/static/js/runtime-main.eddacb09.js",
+    "runtime-main.js.map": "/React-SPA-monsters/static/js/runtime-main.eddacb09.js.map",
+    "static/js/2.b4309f00.chunk.js": "/React-SPA-monsters/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/React-SPA-monsters/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/React-SPA-monsters/index.html",
+    "precache-manifest.552ba23d6182399744012773fdd53bdb.js": "/React-SPA-monsters/precache-manifest.552ba23d6182399744012773fdd53bdb.js",
+    "service-worker.js": "/React-SPA-monsters/service-worker.js",
+    "static/css/main.499b423d.chunk.css.map": "/React-SPA-monsters/static/css/main.499b423d.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/React-SPA-monsters/static/js/2.b4309f00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cc0539c.js",
+    "static/js/runtime-main.eddacb09.js",
     "static/js/2.b4309f00.chunk.js",
     "static/css/main.499b423d.chunk.css",
-    "static/js/main.0649088d.chunk.js"
+    "static/js/main.118cc534.chunk.js"
   ]
 }
